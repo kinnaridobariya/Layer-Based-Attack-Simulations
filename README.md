@@ -34,6 +34,9 @@ This repository contains lab exercises that simulate various attacks across diff
 - **Network Vulnerability Assessment with Nmap**:
   [Network Vulnerability Assessment with Nmap.docx](https://github.com/user-attachments/files/17368403/Network.Vulnerability.Assessment.with.Nmap.docx)
 
+- **Banner Grabbing**:
+[Banner Grabbing.docx](https://github.com/user-attachments/files/17368626/Banner.Grabbing.docx)
+
 
 ---
 
@@ -66,17 +69,21 @@ This repository contains lab exercises that simulate various attacks across diff
   [Web Application Security Audit Using Nmap.docx](https://github.com/user-attachments/files/17368464/Web.Application.Security.Audit.Using.Nmap.docx)
 
 - **Remote Command Execution with Python-Client Server**:
-  [Remote Command Execution.pdf](https://github.com/user-attachments/files/17353317/remote-command-execution.pdf)
+  [Remote Command Execution with Python-Client-Server Communication.docx](https://github.com/user-attachments/files/17368629/Remote.Command.Execution.with.Python-Client- 
+  Server.Communication.docx)
+  
+- **Performing a Simple Web Application Scan**
+  [Performing a Simple Web Application Scan.docx](https://github.com/user-attachments/files/17368628/Performing.a.Simple.Web.Application.Scan.docx)
 
 
 ---
 ### 5. Cryptography
 
 - **Asymmetric Key Creation**:
-  [Asymmetric Key Creation.pdf](https://github.com/user-attachments/files/17353318/asymmetric-key-creation.pdf)
+  [Asymmetric Key Creation.docx](https://github.com/user-attachments/files/17368625/Asymmetric.Key.Creation.docx)
 
 - **Symmetric Key Creation**:
-  [Symmetric Key Creation.pdf](https://github.com/user-attachments/files/17353319/symmetric-key-creation.pdf)
+  [In Class Symmetric Key Creation.docx](https://github.com/user-attachments/files/17368627/In.Class.Symmetric.Key.Creation.docx)
 
 
 ---
@@ -95,13 +102,13 @@ This repository contains lab exercises that simulate various attacks across diff
   [Packet Capture using scapy.docx](https://github.com/user-attachments/files/17368397/Packet.Capture.using.scapy.docx)
 
 - **Teardrop Attack on ClearView Medical Practice**:
-  [Teardrop Attack on ClearView.pdf](https://github.com/user-attachments/files/17353314/teardrop-attack-clearview.pdf)
+  [Teardrop Attack on ClearView Medical Practice.docx](https://github.com/user-attachments/files/17368638/Teardrop.Attack.on.ClearView.Medical.Practice.docx)
 
 - **Teardrop Attack on FortGuard Military Base**:
-  [Teardrop Attack on FortGuard.pdf](https://github.com/user-attachments/files/17353315/teardrop-attack-fortguard.pdf)
+  [Teardrop Attack on FortGuard Military Base.docx](https://github.com/user-attachments/files/17368639/Teardrop.Attack.on.FortGuard.Military.Base.docx)
 
 - **Teardrop Attack Prevention**:
-  [Teardrop Attack Prevention.pdf](https://github.com/user-attachments/files/17353316/teardrop-attack-prevention.pdf)
+  [Teardrop Attack Prevention.docx](https://github.com/user-attachments/files/17368640/Teardrop.Attack.Prevention.docx)
 
 
 
